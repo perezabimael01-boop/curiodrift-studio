@@ -1,0 +1,540 @@
+[
+  {
+    "title": "Octopus has three hearts",
+    "hook": "An octopus has three hearts, and blue blood.",
+    "angle": "Octopus circulation",
+    "trend": "",
+    "script": {
+      "scenes": [
+        {
+          "narration": "An octopus has three hearts.",
+          "on_screen_text": "3 HEARTS",
+          "visual_keyword": "octopus underwater"
+        },
+        {
+          "narration": "Two of them pump blood through the gills.",
+          "on_screen_text": "TWO FOR THE GILLS",
+          "visual_keyword": "ocean reef"
+        },
+        {
+          "narration": "The third pumps blood around the rest of the body.",
+          "on_screen_text": "ONE FOR THE BODY",
+          "visual_keyword": "deep sea"
+        },
+        {
+          "narration": "Its blood is blue, because it carries oxygen using copper instead of iron.",
+          "on_screen_text": "BLUE BLOOD",
+          "visual_keyword": "blue water"
+        },
+        {
+          "narration": "When an octopus swims, the main heart actually stops beating.",
+          "on_screen_text": "SWIMMING STOPS IT",
+          "visual_keyword": "swimming octopus"
+        },
+        {
+          "narration": "That is why octopuses prefer crawling. Follow for more facts.",
+          "on_screen_text": "FOLLOW FOR MORE",
+          "visual_keyword": "ocean waves"
+        }
+      ],
+      "caption": "Three hearts, blue blood, and a heart that stops when it swims. Octopuses are wild.",
+      "hashtags": [
+        "#octopus",
+        "#animalfacts",
+        "#didyouknow",
+        "#science",
+        "#ocean",
+        "#learnontiktok"
+      ],
+      "fact_check": [
+        "Octopuses have three hearts",
+        "Blood is blue due to copper-based hemocyanin",
+        "Systemic heart stops during swimming"
+      ]
+    }
+  },
+  {
+    "title": "Honey never spoils",
+    "hook": "Honey can last for thousands of years.",
+    "angle": "Why honey does not spoil",
+    "trend": "",
+    "script": {
+      "scenes": [
+        {
+          "narration": "Honey can last for thousands of years.",
+          "on_screen_text": "NEVER SPOILS",
+          "visual_keyword": "honey dripping"
+        },
+        {
+          "narration": "Archaeologists have found honey in ancient Egyptian tombs.",
+          "on_screen_text": "FOUND IN TOMBS",
+          "visual_keyword": "egypt pyramid"
+        },
+        {
+          "narration": "It was still safe to eat after about three thousand years.",
+          "on_screen_text": "3,000 YEARS OLD",
+          "visual_keyword": "ancient ruins"
+        },
+        {
+          "narration": "Honey has very little water, so bacteria cannot grow in it.",
+          "on_screen_text": "VERY LITTLE WATER",
+          "visual_keyword": "honey jar"
+        },
+        {
+          "narration": "It is also acidic, and bees add an enzyme that makes a little hydrogen peroxide.",
+          "on_screen_text": "ACIDIC AND PROTECTED",
+          "visual_keyword": "bees honeycomb"
+        },
+        {
+          "narration": "So honey is nearly impossible to spoil. Follow for more.",
+          "on_screen_text": "FOLLOW FOR MORE",
+          "visual_keyword": "golden honey"
+        }
+      ],
+      "caption": "The one food that basically never expires.",
+      "hashtags": [
+        "#honey",
+        "#foodscience",
+        "#didyouknow",
+        "#facts",
+        "#science",
+        "#history"
+      ],
+      "fact_check": [
+        "Edible honey reported in ancient Egyptian tombs",
+        "Low water content and acidity inhibit microbes",
+        "Bee enzyme produces hydrogen peroxide"
+      ]
+    }
+  },
+  {
+    "title": "A day on Venus is longer than its year",
+    "hook": "On Venus, a day is longer than a year.",
+    "angle": "Venus rotation vs orbit",
+    "trend": "",
+    "script": {
+      "scenes": [
+        {
+          "narration": "On Venus, a day lasts longer than a year.",
+          "on_screen_text": "DAY > YEAR",
+          "visual_keyword": "venus planet"
+        },
+        {
+          "narration": "Venus spins very slowly, taking about 243 Earth days to turn once.",
+          "on_screen_text": "243 EARTH DAYS",
+          "visual_keyword": "planet rotation"
+        },
+        {
+          "narration": "But it circles the Sun in only about 225 Earth days.",
+          "on_screen_text": "225-DAY YEAR",
+          "visual_keyword": "solar system"
+        },
+        {
+          "narration": "So one Venus year is shorter than one Venus day.",
+          "on_screen_text": "YEAR BEATS DAY",
+          "visual_keyword": "space stars"
+        },
+        {
+          "narration": "And Venus spins backwards compared to most planets.",
+          "on_screen_text": "SPINS BACKWARDS",
+          "visual_keyword": "galaxy"
+        },
+        {
+          "narration": "Strange world next door. Follow for more space facts.",
+          "on_screen_text": "FOLLOW FOR MORE",
+          "visual_keyword": "night sky"
+        }
+      ],
+      "caption": "Venus is the only planet where the day outlasts the year.",
+      "hashtags": [
+        "#venus",
+        "#space",
+        "#astronomy",
+        "#planets",
+        "#didyouknow",
+        "#science"
+      ],
+      "fact_check": [
+        "Venus sidereal rotation about 243 Earth days",
+        "Venus orbital period about 225 Earth days",
+        "Venus rotates retrograde"
+      ]
+    }
+  },
+  {
+    "title": "Bananas are berries",
+    "hook": "Botanically, a banana is a berry. A strawberry is not.",
+    "angle": "Botanical berries",
+    "trend": "",
+    "script": {
+      "scenes": [
+        {
+          "narration": "Botanically, a banana is a berry.",
+          "on_screen_text": "BANANA = BERRY",
+          "visual_keyword": "bananas"
+        },
+        {
+          "narration": "A strawberry is not.",
+          "on_screen_text": "STRAWBERRY = NOT",
+          "visual_keyword": "strawberries"
+        },
+        {
+          "narration": "To a botanist, a berry grows from one flower with one ovary, and has seeds inside the flesh.",
+          "on_screen_text": "ONE OVARY, SEEDS INSIDE",
+          "visual_keyword": "fruit flower"
+        },
+        {
+          "narration": "Bananas fit that definition. So do grapes, tomatoes and even watermelons.",
+          "on_screen_text": "GRAPES AND TOMATOES TOO",
+          "visual_keyword": "grapes"
+        },
+        {
+          "narration": "Strawberries do not, because their seeds sit on the outside.",
+          "on_screen_text": "SEEDS ON THE OUTSIDE",
+          "visual_keyword": "strawberry macro"
+        },
+        {
+          "narration": "Nature ignores the grocery store. Follow for more.",
+          "on_screen_text": "FOLLOW FOR MORE",
+          "visual_keyword": "fruit market"
+        }
+      ],
+      "caption": "Science defines berries differently than your kitchen does.",
+      "hashtags": [
+        "#banana",
+        "#botany",
+        "#fruit",
+        "#didyouknow",
+        "#facts",
+        "#science"
+      ],
+      "fact_check": [
+        "Banana is a botanical berry",
+        "Strawberry is an aggregate accessory fruit, not a true berry",
+        "Grapes and tomatoes are botanical berries"
+      ]
+    }
+  },
+  {
+    "title": "Lightning is hotter than the Sun",
+    "hook": "A lightning bolt is hotter than the surface of the Sun.",
+    "angle": "Temperature of lightning",
+    "trend": "",
+    "script": {
+      "scenes": [
+        {
+          "narration": "A lightning bolt is hotter than the surface of the Sun.",
+          "on_screen_text": "HOTTER THAN THE SUN",
+          "visual_keyword": "lightning storm"
+        },
+        {
+          "narration": "The Sun's surface is about five thousand five hundred degrees Celsius.",
+          "on_screen_text": "SUN: 5,500 °C",
+          "visual_keyword": "sun"
+        },
+        {
+          "narration": "The air in a lightning channel can reach around thirty thousand degrees.",
+          "on_screen_text": "LIGHTNING: 30,000 °C",
+          "visual_keyword": "thunderstorm night"
+        },
+        {
+          "narration": "That is roughly five times hotter.",
+          "on_screen_text": "5X HOTTER",
+          "visual_keyword": "lightning sky"
+        },
+        {
+          "narration": "The air expands so fast that it creates a shock wave. That is thunder.",
+          "on_screen_text": "THAT BOOM IS THUNDER",
+          "visual_keyword": "dark clouds"
+        },
+        {
+          "narration": "Hot, loud and quick. Follow for more.",
+          "on_screen_text": "FOLLOW FOR MORE",
+          "visual_keyword": "storm clouds"
+        }
+      ],
+      "caption": "Lightning heats the air hotter than the Sun's surface, for a split second.",
+      "hashtags": [
+        "#lightning",
+        "#weather",
+        "#physics",
+        "#didyouknow",
+        "#science",
+        "#facts"
+      ],
+      "fact_check": [
+        "Sun photosphere about 5,500 °C",
+        "Lightning channel up to about 30,000 K",
+        "Thunder is a shock wave from rapid air expansion"
+      ]
+    }
+  },
+  {
+    "title": "Wombats make cube-shaped poop",
+    "hook": "Wombats are the only animals that make cube-shaped poop.",
+    "angle": "Wombat droppings",
+    "trend": "",
+    "script": {
+      "scenes": [
+        {
+          "narration": "Wombats make cube-shaped poop.",
+          "on_screen_text": "CUBE-SHAPED POOP",
+          "visual_keyword": "wombat"
+        },
+        {
+          "narration": "They are the only known animal that does this.",
+          "on_screen_text": "ONLY KNOWN ANIMAL",
+          "visual_keyword": "australia animals"
+        },
+        {
+          "narration": "Researchers found that parts of the wombat's intestine are stretchy and some parts are stiff.",
+          "on_screen_text": "STRETCHY AND STIFF",
+          "visual_keyword": "animal close up"
+        },
+        {
+          "narration": "That uneven squeezing shapes the waste into cubes.",
+          "on_screen_text": "SQUEEZED INTO CUBES",
+          "visual_keyword": "wildlife"
+        },
+        {
+          "narration": "Cubes do not roll away, so wombats stack them to mark territory.",
+          "on_screen_text": "STACKED TO MARK TERRITORY",
+          "visual_keyword": "forest animal"
+        },
+        {
+          "narration": "Nature is weird. Follow for more.",
+          "on_screen_text": "FOLLOW FOR MORE",
+          "visual_keyword": "australia nature"
+        }
+      ],
+      "caption": "Why the cube? Uneven intestines, and a very good reason.",
+      "hashtags": [
+        "#wombat",
+        "#animalfacts",
+        "#didyouknow",
+        "#australia",
+        "#science",
+        "#funfacts"
+      ],
+      "fact_check": [
+        "Wombats produce cube-shaped droppings",
+        "Intestinal elasticity varies along the intestine",
+        "Droppings used for scent marking"
+      ]
+    }
+  },
+  {
+    "title": "Sharks are older than trees",
+    "hook": "Sharks existed before trees did.",
+    "angle": "Age of sharks vs trees",
+    "trend": "",
+    "script": {
+      "scenes": [
+        {
+          "narration": "Sharks are older than trees.",
+          "on_screen_text": "OLDER THAN TREES",
+          "visual_keyword": "shark underwater"
+        },
+        {
+          "narration": "The first sharks appeared more than four hundred million years ago.",
+          "on_screen_text": "400 MILLION YEARS",
+          "visual_keyword": "deep ocean"
+        },
+        {
+          "narration": "The earliest trees showed up around three hundred and eighty million years ago.",
+          "on_screen_text": "TREES: ~380 MILLION",
+          "visual_keyword": "ancient forest"
+        },
+        {
+          "narration": "So sharks were swimming for tens of millions of years before any forest existed.",
+          "on_screen_text": "NO FORESTS YET",
+          "visual_keyword": "fern forest"
+        },
+        {
+          "narration": "They have survived several mass extinctions since.",
+          "on_screen_text": "SURVIVED EXTINCTIONS",
+          "visual_keyword": "ocean reef"
+        },
+        {
+          "narration": "Ancient survivors. Follow for more.",
+          "on_screen_text": "FOLLOW FOR MORE",
+          "visual_keyword": "ocean waves"
+        }
+      ],
+      "caption": "Sharks were here before the first forest.",
+      "hashtags": [
+        "#shark",
+        "#ocean",
+        "#evolution",
+        "#didyouknow",
+        "#science",
+        "#facts"
+      ],
+      "fact_check": [
+        "Earliest shark fossils around 400+ million years old",
+        "Earliest trees (e.g. Archaeopteris/Wattieza) about 385-370 million years ago"
+      ]
+    }
+  },
+  {
+    "title": "Cleopatra and the Moon landing",
+    "hook": "Cleopatra lived closer to the Moon landing than to the building of the Great Pyramid.",
+    "angle": "Timeline",
+    "trend": "",
+    "script": {
+      "scenes": [
+        {
+          "narration": "Cleopatra lived closer in time to the Moon landing than to the building of the Great Pyramid.",
+          "on_screen_text": "CLOSER TO THE MOON",
+          "visual_keyword": "great pyramid"
+        },
+        {
+          "narration": "The Great Pyramid was built around twenty five hundred BC.",
+          "on_screen_text": "PYRAMID: ~2560 BC",
+          "visual_keyword": "pyramids egypt"
+        },
+        {
+          "narration": "Cleopatra was born in sixty nine BC.",
+          "on_screen_text": "CLEOPATRA: 69 BC",
+          "visual_keyword": "ancient egypt"
+        },
+        {
+          "narration": "That is about twenty five centuries after the pyramid.",
+          "on_screen_text": "2,500 YEARS LATER",
+          "visual_keyword": "desert ruins"
+        },
+        {
+          "narration": "The Moon landing was in nineteen sixty nine, only about two thousand years after her.",
+          "on_screen_text": "MOON: 1969",
+          "visual_keyword": "moon"
+        },
+        {
+          "narration": "History is longer than it feels. Follow for more.",
+          "on_screen_text": "FOLLOW FOR MORE",
+          "visual_keyword": "night sky moon"
+        }
+      ],
+      "caption": "Deep time is hard to imagine.",
+      "hashtags": [
+        "#history",
+        "#egypt",
+        "#cleopatra",
+        "#moonlanding",
+        "#didyouknow",
+        "#facts"
+      ],
+      "fact_check": [
+        "Great Pyramid built c. 2600-2500 BC",
+        "Cleopatra VII born 69 BC",
+        "Apollo 11 landing 1969"
+      ]
+    }
+  },
+  {
+    "title": "Oxford is older than the Aztec Empire",
+    "hook": "Oxford University is older than the Aztec Empire.",
+    "angle": "Oxford vs Tenochtitlan",
+    "trend": "",
+    "script": {
+      "scenes": [
+        {
+          "narration": "Oxford University is older than the Aztec Empire.",
+          "on_screen_text": "OLDER THAN THE AZTECS",
+          "visual_keyword": "oxford university"
+        },
+        {
+          "narration": "Teaching was already happening at Oxford in ten ninety six.",
+          "on_screen_text": "TEACHING IN 1096",
+          "visual_keyword": "old library"
+        },
+        {
+          "narration": "The Aztec capital, Tenochtitlan, was founded in thirteen twenty five.",
+          "on_screen_text": "TENOCHTITLAN: 1325",
+          "visual_keyword": "aztec ruins"
+        },
+        {
+          "narration": "That is more than two centuries later.",
+          "on_screen_text": "200+ YEARS LATER",
+          "visual_keyword": "ancient architecture"
+        },
+        {
+          "narration": "Oxford was already old when the Aztecs began to build their city.",
+          "on_screen_text": "ALREADY OLD",
+          "visual_keyword": "historic building"
+        },
+        {
+          "narration": "History overlaps in surprising ways. Follow for more.",
+          "on_screen_text": "FOLLOW FOR MORE",
+          "visual_keyword": "old books"
+        }
+      ],
+      "caption": "Dates make history stranger than fiction.",
+      "hashtags": [
+        "#history",
+        "#oxford",
+        "#aztec",
+        "#didyouknow",
+        "#facts",
+        "#education"
+      ],
+      "fact_check": [
+        "Teaching at Oxford existed by 1096",
+        "Tenochtitlan founded 1325"
+      ]
+    }
+  },
+  {
+    "title": "Days used to be shorter",
+    "hook": "When dinosaurs lived, a day was shorter than 24 hours.",
+    "angle": "Earth's slowing rotation",
+    "trend": "",
+    "script": {
+      "scenes": [
+        {
+          "narration": "When dinosaurs lived, a day was shorter than twenty four hours.",
+          "on_screen_text": "SHORTER DAYS",
+          "visual_keyword": "dinosaur"
+        },
+        {
+          "narration": "Around seventy million years ago, a day lasted about twenty three and a half hours.",
+          "on_screen_text": "~23.5 HOURS",
+          "visual_keyword": "earth from space"
+        },
+        {
+          "narration": "The Moon is the reason this changes.",
+          "on_screen_text": "BLAME THE MOON",
+          "visual_keyword": "moon"
+        },
+        {
+          "narration": "Its gravity creates ocean tides, and tidal friction slowly drags on Earth's spin.",
+          "on_screen_text": "TIDES SLOW EARTH",
+          "visual_keyword": "ocean tide"
+        },
+        {
+          "narration": "The days get longer by about two milliseconds each century.",
+          "on_screen_text": "+2 MS PER CENTURY",
+          "visual_keyword": "clock"
+        },
+        {
+          "narration": "Time is slowly stretching. Follow for more.",
+          "on_screen_text": "FOLLOW FOR MORE",
+          "visual_keyword": "earth rotation"
+        }
+      ],
+      "caption": "Our days are getting longer, very slowly.",
+      "hashtags": [
+        "#earth",
+        "#moon",
+        "#space",
+        "#didyouknow",
+        "#science",
+        "#facts"
+      ],
+      "fact_check": [
+        "Day length ~23.5 h about 70 million years ago",
+        "Tidal friction slows Earth's rotation",
+        "Roughly 1.7-2 ms per century increase"
+      ]
+    }
+  }
+]
